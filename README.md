@@ -10,8 +10,8 @@ Projenin amacı; kullanıcının hesap oluşturması, hesaba giriş yapması, be
 
 ### Ekip Üyeleri
 
+* [Selim SARIKAYA](https://github.com/slmsrky)
 * [Yusuf LAÇİN](https://github.com/YusufLacin)
-* [Selami TİKTAŞ](https://github.com/krsez1)
 
 ### Ekip Eleştirileri
 
